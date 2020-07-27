@@ -1,0 +1,14 @@
+{
+"listen": ":14041",
+"target": "127.0.0.1:10247",
+"key": "7758258",
+"crypt": "",
+"mode": "fast3",
+"mtu": 1350,
+"sndwnd": 1024,
+"rcvwnd": 1024,
+"datashard": 3,
+"parityshard": 1,
+"dscp": 0,
+"nocomp": true
+}
